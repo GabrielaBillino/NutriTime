@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GabrielaBillino/NutriTime/static/css/main.e625f93d.css",
+    "main.js": "/GabrielaBillino/NutriTime/static/js/main.366a6084.js",
+    "static/js/592.8631e72d.chunk.js": "/GabrielaBillino/NutriTime/static/js/592.8631e72d.chunk.js",
+    "static/media/fondo.PNG": "/GabrielaBillino/NutriTime/static/media/fondo.f81f8016227210b1782d.PNG",
+    "static/media/fondoDashboard3.png": "/GabrielaBillino/NutriTime/static/media/fondoDashboard3.828ef807c00733eb9df9.png",
+    "static/media/loc.png": "/GabrielaBillino/NutriTime/static/media/loc.a6374593aca61c340e6a.png",
+    "index.html": "/GabrielaBillino/NutriTime/index.html",
+    "main.e625f93d.css.map": "/GabrielaBillino/NutriTime/static/css/main.e625f93d.css.map",
+    "main.366a6084.js.map": "/GabrielaBillino/NutriTime/static/js/main.366a6084.js.map",
+    "592.8631e72d.chunk.js.map": "/GabrielaBillino/NutriTime/static/js/592.8631e72d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e625f93d.css",
+    "static/js/main.366a6084.js"
+  ]
+}
